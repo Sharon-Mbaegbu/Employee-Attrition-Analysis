@@ -56,5 +56,7 @@ This project explores the socioeconomic factors influencing employee attrition, 
    install.packages(c("ggplot2", "dplyr", "readr", "tidyr"))
    ```
 4. **Run the Analysis Script**:
-   - Open 5250-Project-Paper.Rmd in RStudio and knit the document to produce the analysis report.
+   ```sh
+   Open 5250-Project-Paper.Rmd in RStudio and knit the document to produce the analysis report.
+   ```
 
