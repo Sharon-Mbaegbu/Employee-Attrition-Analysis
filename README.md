@@ -59,4 +59,14 @@ This project explores the socioeconomic factors influencing employee attrition, 
    ```sh
    Open 5250-Project-Paper.Rmd in RStudio and knit the document to produce the analysis report.
    ```
+## File Descriptions
+- 5250-Project-Paper.Rmd: Main analysis script containing data processing and statistical analysis code.
+- hr_employee_attrition.csv: Dataset file.
+- 5250 Final Project Done.pdf: Detailed project report.
+## Conclusions
+- Key Insights: Poor work-life balance and higher incomes are significant predictors of employee attrition.
+- Implications: Strategies to improve work-life balance, such as flexible work arrangements, are crucial for enhancing employee retention.
+## References
+- Pratt, M., Boudhane, M., &amp; Cakula, S. (2021). Employee attrition estimation using Random Forest algorithm. Baltic Journal of Modern Computing, 9(1). https://doi.org/10.22364/bjmc.2021.9.1.04
+- More references available in the project report.
 
