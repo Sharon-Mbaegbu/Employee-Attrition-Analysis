@@ -45,4 +45,16 @@ This project explores the socioeconomic factors influencing employee attrition, 
 
 1. **Clone the Repository**:
    ```sh
-   git clone [your-repository-url]
+   git clone https://github.com/Sharon-Mbaegbu/Employee-Attrition-Analysis
+   ```
+2. **Navigate to the Project Directory**:
+   ```sh
+   cd [your-project-directory]
+   ```
+3. **Install Dependencies**:
+   ```sh
+   install.packages(c("ggplot2", "dplyr", "readr", "tidyr"))
+   ```
+4. **Run the Analysis Script**:
+   - Open 5250-Project-Paper.Rmd in RStudio and knit the document to produce the analysis report.
+
