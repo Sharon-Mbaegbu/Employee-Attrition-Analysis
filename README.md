@@ -11,7 +11,7 @@ This project explores the socioeconomic factors influencing employee attrition, 
 
 ## Tools and Libraries Used
 
-- **R**
+- **R**: Statistical analysis and data visualization
 - **RStudio**: Development environment
 - **Packages**: ggplot2, dplyr, readr, tidyr
 
